@@ -26,3 +26,16 @@ body {
   color: var(--text-color-secondary);
   background-color: var(--background-color);
 }
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.content {
+  padding-inline: 20px;
+}
