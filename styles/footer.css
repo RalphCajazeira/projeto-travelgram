@@ -2,6 +2,8 @@ footer {
   display: flex;
   justify-content: space-between;
   padding-block: 25px;
+  font: var(--text-sm);
+
 }
 
 footer ul {
