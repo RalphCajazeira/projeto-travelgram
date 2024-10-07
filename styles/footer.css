@@ -1,0 +1,10 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding-block: 25px;
+}
+
+footer ul {
+  display: flex;
+  gap: 20px;
+}

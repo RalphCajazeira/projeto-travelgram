@@ -1,5 +1,6 @@
 header {
   display: flex;
+  padding-block: 32px;
   justify-content: space-between;
   align-items: center;
 }
@@ -19,7 +20,7 @@ header {
 }
 
 .profiledesc p {
-  font: var(--text-sm);
+  font: var(--text-md);
 }
 
 .profile img {
