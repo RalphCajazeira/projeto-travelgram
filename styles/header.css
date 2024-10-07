@@ -1,0 +1,41 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile {
+  display: flex;
+  width: 592px;
+  gap: 32px;
+}
+
+.profiledesc {
+  width: 384px;
+}
+.profiledesc h1 {
+  font: var(--text-lg);
+  color: var(--text-color-primary);
+}
+
+.profiledesc p {
+  font: var(--text-sm);
+}
+
+.profile img {
+  width: 176px;
+  height: 176px;
+}
+
+.info ul {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.info ul a {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  width: 280px;
+}
